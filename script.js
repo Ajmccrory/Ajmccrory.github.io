@@ -97,9 +97,7 @@ const phoebeImage = document.getElementById("phoebeImage");
 const images = [
     "pheebs_pics/Phoebe.jpeg",
     "pheebs_pics/Phoebe1.jpeg",
-    "pheebs_pics/Phoebe2.jpeg",
-    "pheebs_pics/Phoebe3.jpeg",
-    "pheebs_pics/Phoebe4.jpeg"
+    "pheebs_pics/Phoebe2.jpeg"
 ];
 
 let lastIndex = 0;
