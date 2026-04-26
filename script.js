@@ -66,7 +66,7 @@ style.innerHTML = `
     }
 }`;
 
-const startDate = new Date("2025-03-27"); 
+const startDate = new Date("2026-03-27"); 
 
 function updateLoveCounter() {
     const now = new Date();
